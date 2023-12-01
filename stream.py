@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-from fpdf2 import FPDF
+from fpdf import FPDF
 import base64
 import matplotlib.pyplot as plt
 import pandas as pd
